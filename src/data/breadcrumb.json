@@ -1,0 +1,211 @@
+[
+    {
+        "id":"1",
+        "path":"/contact",
+        "title":"Contact Us",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"2",
+        "path":"/portfolio-single-column",
+        "title":"Single Column",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg4.jpg"
+    }
+    ,
+    {
+        "id":"3",
+        "path":"/portfolio-two-column",
+        "title":"Two Column",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg4.jpg"
+    }
+    ,
+    {
+        "id":"4",
+        "path":"/portfolio-three-column",
+        "title":"Three Column",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg4.jpg"
+    }
+    ,
+    {
+        "id":"5",
+        "path":"/portfolio-three-column-tab",
+        "title":"Three Column",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg4.jpg"
+    }
+    ,
+    {
+        "id":"6",
+        "path":"/terms-conditions",
+        "title":"Terms & Condition",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"7",
+        "path":"/faq",
+        "title":"FAQ’s",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"8",
+        "path":"/services1",
+        "title":"Our Services",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg1.jpg"
+    }
+    ,
+    {
+        "id":"9",
+        "path":"/service2",
+        "title":"Our Services",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg1.jpg"
+    }
+    ,
+    {
+        "id":"10",
+        "path":"/pricing",
+        "title":"Pricing Plan",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"11",
+        "path":"/career/apply-position",
+        "title":"Job Details",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"12",
+        "path":"/blog-grid",
+        "title":"Insight Grid",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg1.jpg"
+    }
+    ,
+    {
+        "id":"13",
+        "path":"/blog-standard",
+        "title":"Insight Standards",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg1.jpg"
+    }
+    ,
+    {
+        "id":"14",
+        "path":"/case-study1",
+        "title":"Case Study",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg3.jpg"
+    }
+    ,
+    {
+        "id":"15",
+        "path":"/case-study2",
+        "title":"Case Study",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg3.jpg"
+    }
+    ,
+    {
+        "id":"16",
+        "path":"/case-study-details",
+        "title":"Case Study Details",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg3.jpg"
+    }
+    ,
+    {
+        "id":"17",
+        "path":"/industry-details",
+        "title":"Real Estate",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg8.jpg"
+    }
+    ,
+    {
+        "id":"18",
+        "path":"/our-people1",
+        "title":"Our People",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"19",
+        "path":"/our-people2",
+        "title":"Our People",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"20",
+        "path":"/our-people3",
+        "title":"Our People",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"21",
+        "path":"/our-people4",
+        "title":"Our People",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"22",
+        "path":"/people-details",
+        "title":"People Details ",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"23",
+        "path":"/portfolio-details",
+        "title":"Portfolio Details",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg4.jpg"
+    }
+    ,
+    {
+        "id":"24",
+        "path":"/about",
+        "title":"Our Story",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg2.jpg"
+    }
+    ,
+    {
+        "id":"25",
+        "path":"/service-details",
+        "title":"Health & Care",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg6.jpg"
+    }
+    ,
+    {
+        "id":"26",
+        "path":"/event",
+        "title":"Upcoming Event",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"27",
+        "path":"/event-details",
+        "title":"Event Details",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"28",
+        "path":"/career",
+        "title":"career",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg5.jpg"
+    }
+    ,
+    {
+        "id":"29",
+        "path":"/portfolio-fixed-container",
+        "title":"Portfolio Fixed Container",
+        "bg_img":"assets/img/inner-pages/braadcrumb-bg4.jpg"
+    }
+    ,
+    {
+        "id":"30",
+        "path":"/blog-details",
+        "title":"Blog Details",
+        "bg_img":"/assets/img/inner-pages/braadcrumb-bg1.jpg"
+    }
+]

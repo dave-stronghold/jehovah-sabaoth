@@ -1,0 +1,71 @@
+[
+    {
+        "id": "1",
+        "img": "assets/img/inner-pages/portfolio-img1.jpg",
+        "col_3_img": "assets/img/inner-pages/portfolio-three-column-img1.jpg",
+        "tab_img": "assets/img/home4/portfolio-img-01.jpg",
+        "tag": "Technology",
+        "title": "Technology Assessment"
+    },
+    {
+        "id": "2",
+        "img": "assets/img/inner-pages/portfolio-img2.jpg",
+        "col_3_img": "assets/img/inner-pages/portfolio-three-column-img2.jpg",
+        "tab_img": "assets/img/home4/portfolio-img-02.jpg",
+        "tag": "Managemnet",
+        "title": " To Change Management"
+    },
+    {
+        "id": "3",
+        "img": "assets/img/inner-pages/portfolio-img3.jpg",
+        "col_3_img": "assets/img/inner-pages/portfolio-three-column-img3.jpg",
+        "tab_img": "assets/img/home4/portfolio-img-03.jpg",
+        "tag": "Technology",
+        "title": "Technology Assessment"
+    },
+    {
+        "id": "4",
+        "img": "assets/img/inner-pages/portfolio-img4.jpg",
+        "col_3_img": "assets/img/inner-pages/portfolio-three-column-img4.jpg",
+        "tab_img": "assets/img/home4/portfolio-img-04.jpg",
+        "tag": "Marketing",
+        "title": "Marketing and Sales Consulting"
+    },
+    {
+        "id": "5",
+        "img": "assets/img/inner-pages/portfolio-img5.jpg",
+        "tag": "Technology",
+        "title": "Digital Transformation Strategy",
+        "col_3_img": "assets/img/inner-pages/portfolio-three-column-img5.jpg",
+        "tab_img": "assets/img/home4/portfolio-img-05.jpg"
+    },
+    {
+        "id": "6",
+        "img": "assets/img/inner-pages/portfolio-img5.jpg",
+        "tag": "Marketing",
+        "title": "Marketing and Sales Consulting",
+        "col_3_img": "assets/img/inner-pages/portfolio-three-column-img6.jpg",
+        "tab_img": "assets/img/home4/portfolio-img-06.jpg"
+    },
+    {
+        "id": "7",
+        "img": "assets/img/inner-pages/portfolio-img5.jpg",
+        "tag": "Technology",
+        "title": "Digital Transformation Strategy",
+        "col_3_img": "assets/img/inner-pages/portfolio-three-column-img7.jpg"
+    },
+    {
+        "id": "8",
+        "img": "assets/img/inner-pages/portfolio-img5.jpg",
+        "tag": "Technology",
+        "title": "Digital Transformation Strategy",
+        "col_3_img": "assets/img/inner-pages/portfolio-three-column-img8.jpg"
+    },
+    {
+        "id": "9",
+        "img": "assets/img/inner-pages/portfolio-img5.jpg",
+        "tag": "Technology",
+        "title": "Digital Transformation Strategy",
+        "col_3_img": "assets/img/inner-pages/portfolio-three-column-img9.jpg"
+    }
+]
