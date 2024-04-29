@@ -9,7 +9,7 @@ const Breadcrumb = () => {
 
   // Find the matching data object based on the current path
   const currentData = data.find((item) => item.path === pathname);
-
+  
   // If a matching object is found, use its data; otherwise, use a default object
   const displayData = currentData || {
     id: "default",
@@ -20,13 +20,14 @@ const Breadcrumb = () => {
 
   return (
     <>
+    {console.log(pathname, currentData)}
       <div
         className="breadcrumb-section"
         style={{
           backgroundImage: `linear-gradient(270deg, rgba(0, 0, 0, .55), rgba(0, 0, 0, 0.55) 101.02%), url(${displayData.bg_img})`,
         }}
       >
-        <div className="company-name">Aploxn</div>
+        <div className="company-name">JSM</div>
         <div className="container-fluid one pl--95">
           <div className="row">
             <div className="col-lg-12">

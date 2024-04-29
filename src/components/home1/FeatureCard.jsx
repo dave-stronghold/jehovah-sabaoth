@@ -8,7 +8,7 @@ const FeatureCard = () => {
         <div className="row g-4">
           <div className="col-lg-3 d-flex justify-content-lg-center">
             <div className="sub-title">
-              <span>Solution Approach</span>
+              <span>Our Ministries</span>
             </div>
           </div>
           <div className="col-lg-9">
@@ -16,11 +16,10 @@ const FeatureCard = () => {
               <div className="col-lg-12 gap-lg-5 gap-4 d-flex flex-lg-nowrap flex-wrap align-items-start justify-content-between mb-60">
                 <div className="section-title1 one">
                   <h2>
-                    Conduct market research to understand industry trends,
-                    competition, and customer behavior.
+                   Jehovah Sabaoth Ministries extends diverse ministries, fostering growth, community, and spiritual nourishment.
                   </h2>
                 </div>
-                <Link legacyBehavior href="/services1">
+                {/* <Link legacyBehavior href="/services1">
                   <a className="explore-btn">
                     Explore Area
                     <svg
@@ -36,7 +35,7 @@ const FeatureCard = () => {
                       />
                     </svg>
                   </a>
-                </Link>
+                </Link> */}
               </div>
               <div className="col-lg-12">
                 <div className="row g-4">
@@ -57,7 +56,7 @@ const FeatureCard = () => {
                         </svg>
                       </div>
                       <div className="content">
-                        <h5>1. Research and Analysis</h5>
+                        <h5>Children's Ministry</h5>
                         <p>
                           Conduct online research to identify potential
                           consulting firms or individual.
@@ -78,7 +77,7 @@ const FeatureCard = () => {
                         </svg>
                       </div>
                       <div className="content">
-                        <h5>2. Development</h5>
+                        <h5>Prison Ministry</h5>
                         <p>
                           The consultant then develops and implements a strategy
                           or solution to address the client's needs.
@@ -102,7 +101,7 @@ const FeatureCard = () => {
                         </svg>
                       </div>
                       <div className="content">
-                        <h5>3. Management</h5>
+                        <h5>Hospital Ministry</h5>
                         <p>
                           The consulting engagement begins with the consultant
                           or consulting team working.
@@ -125,7 +124,7 @@ const FeatureCard = () => {
                         </svg>
                       </div>
                       <div className="content">
-                        <h5>4. Monitoring</h5>
+                        <h5>Social Welfare</h5>
                         <p>
                           The purpose of these reviews is to provide feedback,
                           experiences, and assess the effectiveness.
@@ -133,7 +132,7 @@ const FeatureCard = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="col-xxl-4 col-sm-6">
+                  {/* <div className="col-xxl-4 col-sm-6">
                     <div className="eg-card-2">
                       <div className="icon">
                         <svg
@@ -167,8 +166,8 @@ const FeatureCard = () => {
                         </p>
                       </div>
                     </div>
-                  </div>
-                  <div className="col-xxl-4 col-sm-6">
+                  </div> */}
+                  {/* <div className="col-xxl-4 col-sm-6">
                     <div className="eg-card-2">
                       <div className="icon">
                         <svg
@@ -191,7 +190,7 @@ const FeatureCard = () => {
                         </p>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

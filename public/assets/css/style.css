@@ -85,7 +85,8 @@ Version: 1.0
   --title-color: #0D1720;
   --white-color: #fff;
   --paragraph-color: #566064;
-  --primary-color: #2E448D;
+  /* --primary-color: #2E448D; */
+  --primary-color: #dbac34;
 }
 
 * {
@@ -2005,7 +2006,7 @@ body.tt-magic-cursor #magic-cursor {
   position: absolute;
   bottom: -1px;
   left: 0;
-  background: linear-gradient(90deg, #fff, #2E448D, #fff);
+  background: linear-gradient(90deg, #fff, #d7bc44, #fff);
   width: 100%;
   height: 1px;
   transform: scaleX(0);
@@ -2304,7 +2305,7 @@ body.tt-magic-cursor #magic-cursor {
 }
 .header-area.style-2 .header-logo {
   padding: 11px 26px;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgb(24, 24, 33);
 }
 @media (max-width: 1399px) {
   .header-area.style-2 .header-logo {
@@ -4432,7 +4433,7 @@ body.tt-magic-cursor #magic-cursor {
  05.Cover Section
 ========================================*/
 .cover-section .cover-wrapper {
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 100px 7%;
 }
 @media (min-width: 1400px) and (max-width: 1599px) {
@@ -4768,7 +4769,7 @@ body.tt-magic-cursor #magic-cursor {
 }
 .eg-card-2 .icon .serial-number {
   line-height: 1;
-  color: #DFEBF7;
+  color: #d7d7d7;
   font-family: var(--font-marcellus);
   font-size: 22px;
   font-weight: 400;
@@ -4825,7 +4826,7 @@ body.tt-magic-cursor #magic-cursor {
 }
 .eg-card-2.style-2 .sl-no h3 {
   line-height: 1;
-  color: #DFEBF7;
+  color: #d7d7d7;
   font-family: var(--font-marcellus);
   font-size: 30px;
   font-weight: 400;
@@ -4873,7 +4874,7 @@ body.tt-magic-cursor #magic-cursor {
 }
 .eg-card-2.style-3 .sl-no h3 {
   line-height: 0.7;
-  color: #DFEBF7;
+  color: #d7d7d7;
   font-family: var(--font-marcellus);
   font-size: 60px;
   font-weight: 400;
@@ -4889,8 +4890,8 @@ body.tt-magic-cursor #magic-cursor {
 }
 
 .eg-card-3 {
-  background: #F4F9FD;
-  border: 1px solid #F4F9FD;
+  background: #eeeeee;
+  border: 1px solid #eeeeee;
   border-bottom: none;
   transition: 0.35s;
 }
@@ -4942,7 +4943,7 @@ body.tt-magic-cursor #magic-cursor {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #DFEBF7;
+  background-color: #d7d7d7;
   color: var(--title-color);
   text-align: center;
   font-family: var(--font-marcellus);
@@ -5340,7 +5341,7 @@ body.tt-magic-cursor #magic-cursor {
   width: 100%;
 }
 .people-card1 .people-flip-box-layer.people-flip-box-front .content {
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 20px 20px;
 }
 .people-card1 .people-flip-box-layer.people-flip-box-front .content h5 {
@@ -5364,7 +5365,7 @@ body.tt-magic-cursor #magic-cursor {
   font-weight: 500;
 }
 .people-card1 .people-flip-box-layer.people-flip-box-back {
-  background-color: #DFEBF7;
+  background-color: #d7d7d7;
   padding: 25px 0px 25px 20px;
   display: flex;
   align-items: center;
@@ -5552,7 +5553,7 @@ body.tt-magic-cursor #magic-cursor {
   width: 24px;
   height: 24px;
   border-radius: 50%;
-  background-color: #DFEBF7;
+  background-color: #d7d7d7;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -5790,7 +5791,7 @@ body.tt-magic-cursor #magic-cursor {
 }
 .testimonial-wrap.two {
   position: relative;
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
 }
 .testimonial-wrap.two .slider-btn-area {
   position: absolute;
@@ -5894,7 +5895,7 @@ body.tt-magic-cursor #magic-cursor {
   align-items: center;
   gap: 30px;
   flex-wrap: wrap;
-  background-color: #DFEBF7;
+  background-color: #d7d7d7;
   padding: 14px 24px;
   margin-bottom: 20px;
 }
@@ -6983,7 +6984,7 @@ footer .footer-btm .social-area li a:hover i {
  19. Home2 Testimonial Section
 ========================================*/
 .testimonial-section2.two {
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 130px 0;
 }
 @media (max-width: 991px) {
@@ -6995,7 +6996,7 @@ footer .footer-btm .social-area li a:hover i {
   background-image: url(../img/home4/testimoial-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 100px 0;
   background-position: 35%;
 }
@@ -7139,7 +7140,7 @@ footer .footer-btm .social-area li a:hover i {
 .tastimonial-wrap2.two .testimonial-card .testimonial-img .sharp1 {
   width: 125px;
   height: 113px;
-  background: #DFEBF7;
+  background: #d7d7d7;
   position: absolute;
   left: -35px;
   top: -35px;
@@ -7355,7 +7356,7 @@ footer .footer-btm .social-area li a:hover i {
  20. Home2 Cover Section
 ========================================*/
 .cover-section2 {
-  background-color: #DFEBF7;
+  background-color: #d7d7d7;
   padding: 100px 0;
   position: relative;
   z-index: 1;
@@ -7965,7 +7966,7 @@ footer .footer-btm .social-area li a:hover i {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #E8F1FB;
+  background-color: #F7F1E2;
   transition: 0.35s;
 }
 .people-card2 .people-content .contact-area .contact-number .icon svg {
@@ -8019,7 +8020,7 @@ footer .footer-btm .social-area li a:hover i {
   color: var(--primary-color);
 }
 .people-card2 .people-content .contact-area .social-icon li a:hover {
-  background-color: #E8F1FB;
+  background-color: #F7F1E2;
 }
 .people-card2.two .people-img {
   position: relative;
@@ -8080,7 +8081,7 @@ footer .footer-btm .social-area li a:hover i {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #E8F1FB;
+  background-color: #F7F1E2;
   transition: 0.35s;
 }
 .people-card2.two .people-content .contact-area .contact-number .icon svg {
@@ -8129,7 +8130,7 @@ footer .footer-btm .social-area li a:hover i {
 }
 
 .people-section2.two {
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 100px 0;
 }
 @media (max-width: 991px) {
@@ -8147,7 +8148,7 @@ footer .footer-btm .social-area li a:hover i {
  26. Home2 Clint Section
 ========================================*/
 .client-section .client-logo-wrap {
-  background: #F4F9FD;
+  background: #eeeeee;
   display: flex;
   padding: 80px;
 }
@@ -9357,7 +9358,7 @@ footer .footer-btm .social-area li a:hover i {
  35. Home3 Event Section
 ========================================*/
 .inner-banner-section .inner-banner-wrapper {
-  background-color: #DFEBF7;
+  background-color: #d7d7d7;
 }
 .inner-banner-section .inner-banner-wrapper .banner-content {
   padding: 70px 0px 70px 90px;
@@ -9557,7 +9558,7 @@ footer .footer-btm .social-area li a:hover i {
 ========================================*/
 .home4-about-section {
   padding: 100px 0;
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
 }
 .home4-about-section .company-information {
   background-color: var(--white-color);
@@ -9635,7 +9636,7 @@ footer .footer-btm .social-area li a:hover i {
   font-family: var(--font-montserrat);
   font-size: 120px;
   font-weight: 700;
-  color: #DFEBF7;
+  color: #d7d7d7;
   line-height: 17px;
   margin-bottom: 0;
 }
@@ -10221,7 +10222,7 @@ footer .footer-btm .social-area li a:hover i {
   }
 }
 .portfolio-tab-area.two .nav-tabs .nav-item .nav-link {
-  background: #F4F9FD;
+  background: #eeeeee;
   color: var(--title-color);
 }
 .portfolio-tab-area.two .nav-tabs .nav-item .nav-link.active {
@@ -10391,7 +10392,7 @@ footer .footer-btm .social-area li a:hover i {
   color: var(--paragraph-color);
 }
 .contact-form-area.three {
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 70px 80px;
 }
 @media (max-width: 1699px) {
@@ -10545,7 +10546,7 @@ footer .footer-btm .social-area li a:hover i {
   position: relative;
 }
 .blog-card4 .blog-flip-box-layer.blog-card-back {
-  background-color: #DFEBF7;
+  background-color: #d7d7d7;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -11307,7 +11308,7 @@ footer .footer-btm .social-area li a:hover i {
 
 .company-activities-area {
   padding: 100px 0;
-  background: #F4F9FD;
+  background: #eeeeee;
 }
 
 .company-activites-content .sulution-approach h3 {
@@ -11357,7 +11358,7 @@ footer .footer-btm .social-area li a:hover i {
   font-family: var(--font-montserrat);
   font-size: 135px;
   font-weight: 700;
-  color: #DFEBF7;
+  color: #d7d7d7;
   position: absolute;
   left: -15px;
   bottom: -10px;
@@ -11655,7 +11656,7 @@ footer .footer-btm .social-area li a:hover i {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #E8F1FB;
+  background-color: #F7F1E2;
   transition: 0.35s;
 }
 @media (max-width: 1399px) {
@@ -11707,7 +11708,7 @@ footer .footer-btm .social-area li a:hover i {
 }
 
 .find-job-wrap .find-job-card {
-  background-color: #E8F1FB;
+  background-color: #F7F1E2;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -11726,7 +11727,7 @@ footer .footer-btm .social-area li a:hover i {
           clip-path: polygon(0 100%, 100% 0, 0 0);
 }
 .find-job-wrap .find-job-card span::after {
-  content: "Hire";
+  content: "Help";
   color: var(--white-color);
   font-family: var(--font-montserrat);
   font-size: 12px;
@@ -11993,7 +11994,7 @@ footer .footer-btm .social-area li a:hover i {
   height: 6px;
   top: unset;
   left: unset;
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   opacity: 1;
 }
 .home6-cover-area .scrollbar-and-slider-btn .progress-pagination2 .swiper-pagination-progressbar-fill {
@@ -12216,7 +12217,7 @@ footer .footer-btm .social-area li a:hover i {
 .home6-event-section {
   overflow: hidden;
   margin-top: -250px;
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 60px 80px 60px 395px;
   max-width: 1740px;
   width: 100%;
@@ -12954,7 +12955,7 @@ footer .footer-btm .social-area li a:hover i {
   margin-bottom: 0;
 }
 .blog-details-page .inquiry-form {
-  background: #DFEBF7;
+  background: #d7d7d7;
   padding: 45px 40px 50px;
 }
 @media (max-width: 767px) {
@@ -13153,7 +13154,7 @@ footer .footer-btm .social-area li a:hover i {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #DFEBF7;
+  background-color: #d7d7d7;
   cursor: pointer;
 }
 .blog-st-card .blog-content .tag-and-social-icon .social-area span svg {
@@ -13203,7 +13204,7 @@ footer .footer-btm .social-area li a:hover i {
   align-items: center;
 }
 .blog-sidebar .single-widgets.widget_search .wp-block-search__inside-wrapper input {
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   height: 56px;
   color: var(--paragraph-color);
   font-family: var(--font-montserrat);
@@ -13765,7 +13766,7 @@ footer .footer-btm .social-area li a:hover i {
   color: var(--white-color);
 }
 .event-sidebar .event-speakers-area .slider-btn-group {
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 25px 20px;
 }
 .event-sidebar .event-speakers-area .slider-btn-group .event-fractional-pagination {
@@ -13876,7 +13877,7 @@ footer .footer-btm .social-area li a:hover i {
   color: var(--primary-color);
 }
 .event-sidebar .sponsore-section {
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 50px 30px;
 }
 .event-sidebar .sponsore-section .widget-title {
@@ -13982,17 +13983,17 @@ footer .footer-btm .social-area li a:hover i {
 .faq-wrap .accordion .accordion-item {
   border-radius: 0;
   border: none;
-  background: #F4F9FD;
+  background: #eeeeee;
   margin-bottom: 20px;
 }
 .faq-wrap .accordion .accordion-item:last-child {
   margin-bottom: 0;
 }
 .faq-wrap .accordion .accordion-item .accordion-header {
-  background: #F4F9FD;
+  background: #eeeeee;
 }
 .faq-wrap .accordion .accordion-item .accordion-header .accordion-button {
-  background: #F4F9FD;
+  background: #eeeeee;
   color: var(--title-color);
   font-family: var(--font-marcellus);
   font-size: 20px;
@@ -14156,7 +14157,7 @@ footer .footer-btm .social-area li a:hover i {
   }
 }
 .people-card-section .people-card-top-area .total-team-members-area .icon svg {
-  fill: #DFEBF7;
+  fill: #d7d7d7;
 }
 .people-card-section .people-card-top-area .total-team-members-area .content {
   max-width: 470px;
@@ -14184,7 +14185,7 @@ footer .footer-btm .social-area li a:hover i {
   margin-bottom: 0;
 }
 .people-card-section .people-tag {
-  background-color: #DFEBF7;
+  background-color: #d7d7d7;
   padding: 11px 40px 11px 25px;
   display: inline-block;
   -webkit-clip-path: polygon(0 0, 90% 0, 100% 100%, 0% 100%);
@@ -14492,7 +14493,7 @@ footer .footer-btm .social-area li a:hover i {
 }
 
 .job-post-section {
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 100px 0;
 }
 .job-post-section .section-title1 {
@@ -14594,7 +14595,7 @@ footer .footer-btm .social-area li a:hover i {
  62. Pricing Plan Page
 ========================================*/
 .single-plan {
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 50px 40px;
   position: relative;
 }
@@ -14853,7 +14854,7 @@ footer .footer-btm .social-area li a:hover i {
 .apply-position-section .job-summary-area ul {
   padding: 40px;
   border-radius: 5px;
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
 }
 @media (max-width: 576px) {
   .apply-position-section .job-summary-area ul {
@@ -15039,7 +15040,7 @@ footer .footer-btm .social-area li a:hover i {
 }
 
 .service-details-faq-section {
-  background-color: #DFEBF7;
+  background-color: #d7d7d7;
   padding: 100px 0;
 }
 @media (max-width: 991px) {
@@ -15057,7 +15058,7 @@ footer .footer-btm .social-area li a:hover i {
   display: flex;
   align-items: center;
   gap: 8px;
-  background-color: #F4F9FD;
+  background-color: #eeeeee;
   padding: 14px 30px;
 }
 .details-section-title svg {
@@ -15225,7 +15226,7 @@ footer .footer-btm .social-area li a:hover i {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #E8F1FB;
+  background-color: #F7F1E2;
   transition: 0.4s;
 }
 .details-page-content .contect-area .contact-number .icon svg {
@@ -15327,7 +15328,7 @@ footer .footer-btm .social-area li a:hover i {
 }
 
 .people-section.two {
-  background: #F4F9FD;
+  background: #eeeeee;
   padding: 100px 0;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -15366,7 +15367,7 @@ footer .footer-btm .social-area li a:hover i {
   padding-bottom: 15px;
 }
 .case-study-details-wrapper .case-study-details-top .case-study-details-info-wrap {
-  background: #F4F9FD;
+  background: #eeeeee;
   padding: 60px;
   max-width: 445px;
   width: 100%;
@@ -15422,7 +15423,7 @@ footer .footer-btm .social-area li a:hover i {
   justify-content: center;
   gap: 10px;
   padding: 14px 20px;
-  background-color: #DFEBF7;
+  background-color: #d7d7d7;
   transition: 0.5s;
 }
 .case-study-details-wrapper .case-study-details-top .case-study-details-info-wrap .download-btns li a:hover {
@@ -15841,7 +15842,7 @@ footer .footer-btm .social-area li a:hover i {
   color: var(--primary-color);
 }
 .case-study-navigation-section .details-navigation > svg {
-  fill: #DFEBF7;
+  fill: #d7d7d7;
 }
 @media (max-width: 991px) {
   .case-study-navigation-section .details-navigation > svg {

@@ -38,7 +38,7 @@ const VideoArea = () => {
                 loop
                 muted
                 playsInline
-                src="assets/video/video-bg2.mp4"
+                src="assets/video/video-bg4.webm"
               />
             </div>
           </div>

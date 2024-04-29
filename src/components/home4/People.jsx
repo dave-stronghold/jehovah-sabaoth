@@ -59,7 +59,7 @@ const People = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+9165678653">+91 656 786 53</a>
+                      <a href="tel:+919840156777">+91 98401 56777</a>
                     </div>
                   </div>
                 </div>
@@ -88,7 +88,7 @@ const People = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+9165678653">+91 656 786 53</a>
+                      <a href="tel:+919840156777">+91 98401 56777</a>
                     </div>
                   </div>
                 </div>
@@ -117,7 +117,7 @@ const People = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+9165678653">+91 656 786 53</a>
+                      <a href="tel:+919840156777">+91 98401 56777</a>
                     </div>
                   </div>
                 </div>
@@ -146,7 +146,7 @@ const People = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+9165678653">+91 656 786 53</a>
+                      <a href="tel:+919840156777">+91 98401 56777</a>
                     </div>
                   </div>
                 </div>
@@ -175,7 +175,7 @@ const People = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+9165678653">+91 656 786 53</a>
+                      <a href="tel:+919840156777">+91 98401 56777</a>
                     </div>
                   </div>
                 </div>
@@ -204,7 +204,7 @@ const People = () => {
                       </svg>
                     </div>
                     <div className="content">
-                      <a href="tel:+9165678653">+91 656 786 53</a>
+                      <a href="tel:+919840156777">+91 98401 56777</a>
                     </div>
                   </div>
                 </div>

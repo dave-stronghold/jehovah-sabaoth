@@ -5421,7 +5421,7 @@ body.tt-magic-cursor #magic-cursor {
             background-color: var(--primary-color);
             clip-path: polygon(0 100%, 100% 0, 0 0);
             &::after{
-                content: 'Hire';
+                content: 'Help';
                 color: var(--white-color);
                 font-family: var(--font-montserrat);
                 font-size: 12px;
@@ -11689,7 +11689,7 @@ footer{
                 background-color: var(--primary-color);
                 clip-path: polygon(0 100%, 100% 0, 0 0);
                 &::after{
-                    content: 'Hire';
+                    content: 'Help';
                     color: var(--white-color);
                     font-family: var(--font-montserrat);
                     font-size: 12px;
