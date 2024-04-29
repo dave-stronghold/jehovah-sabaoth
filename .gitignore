@@ -24,4 +24,4 @@ Documentation
 *.njsproj
 *.sln
 *.sw?
-.next/trace
+.next/*
