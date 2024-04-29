@@ -2,10 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
   "/online-gatherings": "pages/online-gatherings.js",
-  "/children-ministry": "pages/children-ministry.js",
-  "/event": "pages/event.js",
-  "/faq": "pages/faq.js",
-  "/contact": "pages/contact.js"
+  "/404": "pages/404.js"
 }
