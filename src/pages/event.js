@@ -6,8 +6,8 @@ const EventPage = () => {
   return (
     <MainLayout>
       <div className="event-page pt-130 mb-130">
-  <div className="container">
-    <div className="row g-4 mb-60">
+  <div className="container" id="events">
+    <div className="row g-4 mb-60"  >
       <div className="col-lg-6">
         <div className="event-card magnetic-item">
           <div className="event-img">

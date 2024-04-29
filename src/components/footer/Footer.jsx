@@ -12,7 +12,7 @@ const Footer = () => {
                 <div className="col-lg-4  col-md-8 d-flex justify-content-lg-start">
                   <div className="footer-widget">
                     <div className="subscribed-area">
-                      <h2>Don’t Missed Subscribed!</h2>
+                      <h2>Subscribe to our Newsletter</h2>
                       <form>
                         <div className="form-inner">
                           <input type="text" placeholder="Enter Email" />
@@ -44,9 +44,9 @@ const Footer = () => {
                           </svg>
                         </div>
                         <div className="content">
-                          <span>To More Inquiry</span>
+                          <span>For Inquiry</span>
                           <h6>
-                            <a href="tel:+990737621432">+990-737 621 432</a>
+                            <a href="tel:+919840156777">98401 56777</a>
                           </h6>
                         </div>
                       </div>
@@ -68,7 +68,7 @@ const Footer = () => {
                         <div className="content">
                           <span>To Send Mail</span>
                           <h6>
-                            <a href="mailto:info@gmail.com">info@gmail.com</a>
+                            <a href="mailto:prayers.jsm@gmail.com">prayers.jsm@gmail.com</a>
                           </h6>
                         </div>
                       </div>
@@ -78,7 +78,7 @@ const Footer = () => {
                 <div className="col-lg-3 col-md-4 d-flex justify-content-lg-center justify-content-md-end">
                   <div className="footer-widget">
                     <div className="widget-title">
-                      <h3>About Us</h3>
+                      <h3>Site Map</h3>
                     </div>
                     <div className="menu-container">
                       <ul>
@@ -98,20 +98,11 @@ const Footer = () => {
                           </Link>
                         </li>
                         <li>
-                          <Link legacyBehavior href="/our-people1">
-                            <a>Our Consultants</a>
+                          <Link legacyBehavior href="/online-gatherings">
+                            <a>Online Ministry</a>
                           </Link>
                         </li>
-                        <li>
-                          <Link legacyBehavior href="/career">
-                            <a>Careers</a>
-                          </Link>
-                        </li>
-                        <li>
-                          <Link legacyBehavior href="/case-study1">
-                            <a>Case Study</a>
-                          </Link>
-                        </li>
+                        
                       </ul>
                     </div>
                   </div>
@@ -119,43 +110,19 @@ const Footer = () => {
                 <div className="col-lg-3 col-md-6 d-flex justify-content-lg-center">
                   <div className="footer-widget">
                     <div className="widget-title">
-                      <h3>Industries</h3>
+                      <h3>Socials</h3>
                     </div>
                     <div className="menu-container">
                       <ul>
+                       
                         <li>
-                          <Link legacyBehavior href="/industry-details">
-                            <a>Real Estate</a>
+                          <Link legacyBehavior href="https://www.youtube.com/@LastDaysGlory">
+                            <a>Last Days Glory</a>
                           </Link>
                         </li>
                         <li>
-                          <Link legacyBehavior href="/industry-details">
-                            <a>Construction</a>
-                          </Link>
-                        </li>
-                        <li>
-                          <Link legacyBehavior href="/industry-details">
-                            <a>Health Care</a>
-                          </Link>
-                        </li>
-                        <li>
-                          <Link legacyBehavior href="/industry-details">
-                            <a>Finnace Service</a>
-                          </Link>
-                        </li>
-                        <li>
-                          <Link legacyBehavior href="/industry-details">
-                            <a>Dealership</a>
-                          </Link>
-                        </li>
-                        <li>
-                          <Link legacyBehavior href="/industry-details">
-                            <a>Low Firm Service</a>
-                          </Link>
-                        </li>
-                        <li>
-                          <Link legacyBehavior href="/industry-details">
-                            <a>Family Business</a>
+                          <Link legacyBehavior href="https://www.youtube.com/@SENAIGALINKARTHARMINISTRIES/featured">
+                            <a>Senaigalin Karthar Ministries</a>
                           </Link>
                         </li>
                       </ul>
@@ -165,25 +132,21 @@ const Footer = () => {
                 <div className="col-lg-2 col-md-6 d-flex justify-content-md-end">
                   <div className="footer-widget">
                     <div className="widget-title">
-                      <h3>Legelity</h3>
+                      <h3>Legality</h3>
                     </div>
                     <div className="menu-container">
                       <ul>
                         <li>
                           <Link legacyBehavior href="terms-conditions">
-                            <a>Privacy &amp; Policy</a>
+                            <a>Privacy Policy</a>
                           </Link>
                         </li>
                         <li>
                           <Link legacyBehavior href="terms-conditions">
-                            <a>Terms &amp; Condition</a>
+                            <a>Terms &amp; Conditions</a>
                           </Link>
                         </li>
-                        <li>
-                          <Link legacyBehavior href="#">
-                            <a>Cookie Policy</a>
-                          </Link>
-                        </li>
+                       
                       </ul>
                     </div>
                   </div>
@@ -196,15 +159,15 @@ const Footer = () => {
               <div className="footer-logo">
                 <Link legacyBehavior href="/">
                   <a>
-                    <img src="assets/img/footer-logo.svg" alt="footer-logo" />
+                    <img src="assets/img/footer-logo.png" alt="footer-logo" />
                   </a>
                 </Link>
               </div>
               <ul className="footer-menu">
                 <li>
-                  <Link legacyBehavior href="/services1">
+                  <Link legacyBehavior href="/children-ministry">
                     <a>
-                      International Business
+                      Children's Ministry
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width={10}
@@ -221,9 +184,9 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link legacyBehavior href="/services1">
+                  <Link legacyBehavior href="/prison-ministry">
                     <a>
-                      Marketing Research
+                      Prison Ministry
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width={10}
@@ -240,9 +203,9 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link legacyBehavior href="/services1">
+                  <Link legacyBehavior href="/hospital-ministry">
                     <a>
-                      Finance Consulting
+                      Hospital Ministry
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width={10}
@@ -259,9 +222,9 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link legacyBehavior href="/services1">
+                  <Link legacyBehavior href="/public-welfare">
                     <a>
-                      Human Resources
+                      Public Welfare
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width={10}
@@ -277,51 +240,14 @@ const Footer = () => {
                     </a>
                   </Link>
                 </li>
-                <li>
-                  <Link legacyBehavior href="/services1">
-                    <a>
-                      Technology
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width={10}
-                        height={10}
-                        viewBox="0 0 10 10"
-                      >
-                        <path
-                          fillRule="evenodd"
-                          clipRule="evenodd"
-                          d="M8.48878 0.885308L0 9.37364L0.626356 10L9.11469 1.51122V7.38037H10V0H2.61963V0.885308H8.48878Z"
-                        />
-                      </svg>
-                    </a>
-                  </Link>
-                </li>
-                <li>
-                  <Link legacyBehavior href="/services1">
-                    <a>
-                      Start-up
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width={10}
-                        height={10}
-                        viewBox="0 0 10 10"
-                      >
-                        <path
-                          fillRule="evenodd"
-                          clipRule="evenodd"
-                          d="M8.48878 0.885308L0 9.37364L0.626356 10L9.11469 1.51122V7.38037H10V0H2.61963V0.885308H8.48878Z"
-                        />
-                      </svg>
-                    </a>
-                  </Link>
-                </li>
+                
               </ul>
             </div>
             <div className="footer-btm">
               <div className="copyright-area">
                 <p>
-                  Copyright 2023 <a href="#">Aploxn</a> | Design By{" "}
-                  <a href="https://www.egenslab.com/">Egens Lab</a>
+                  Copyright 2024 | Design By{" "}
+                  <a href="/">JS Ministries</a>
                 </p>
               </div>
               <ul className="social-area">

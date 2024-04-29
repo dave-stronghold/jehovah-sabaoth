@@ -11,7 +11,7 @@ const ContactPage = () => {
             <div className="col-lg-5">
               <div className="single-location mb-50">
                 <div className="title-and-view-btn">
-                  <h4>Sydne, Australia</h4>
+                  <h4>Chennai, India</h4>
                   <a href="#">
                     View Map
                     <svg
@@ -83,7 +83,7 @@ const ContactPage = () => {
               </div>
               <div className="single-location">
                 <div className="title-and-view-btn">
-                  <h4>NewYork, USA</h4>
+                  <h4>Colombo, Sri Lanka</h4>
                   <a href="#">
                     View Map
                     <svg
@@ -157,7 +157,7 @@ const ContactPage = () => {
             <div className="col-lg-7">
               <div className="company-map">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.5647631857846!2d90.36311167605992!3d23.83407118555764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c14c8682a473%3A0xa6c74743d52adb88!2sEgens%20Lab!5e0!3m2!1sen!2sbd!4v1700138349574!5m2!1sen!2sbd"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d248755.7947609403!2d80.04419799407202!3d13.047807812799862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5265ea4f7d3361%3A0x6e61a70b6863d433!2sChennai%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1714399587427!5m2!1sen!2sin"
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
@@ -172,10 +172,9 @@ const ContactPage = () => {
           <div className="row g-lg-4 gy-5">
             <div className="col-lg-5">
               <div className="section-title1 two">
-                <h2>If Your Need Any Consult, How can We Help You?</h2>
+                <h2>If Your Need Any Queries, Please write to us.</h2>
                 <p>
-                  These problems can range from operational inefficiencies to
-                  strategic planning issues.
+                  It Can be any information regarding the ministry or prayer requests. We will reach you back in Office hours.
                 </p>
               </div>
             </div>
@@ -186,19 +185,19 @@ const ContactPage = () => {
                     <div className="col-lg-6 mb-30">
                       <div className="form-inner">
                         <label>Name*</label>
-                        <input type="text" placeholder="Daniel Scoot" />
+                        <input type="text" placeholder="Daniel Scott" />
                       </div>
                     </div>
                     <div className="col-lg-6 mb-30">
                       <div className="form-inner">
-                        <label>Work Email*</label>
+                        <label>Email*</label>
                         <input
                           type="email"
                           placeholder="infoexample@gmail.com"
                         />
                       </div>
                     </div>
-                    <div className="col-lg-6 mb-30">
+                    {/* <div className="col-lg-6 mb-30">
                       <div className="form-inner">
                         <label>Company Name*</label>
                         <input type="text" placeholder="Consult Pro" />
@@ -209,10 +208,10 @@ const ContactPage = () => {
                         <label>Consulting Area*</label>
                         <input type="text" placeholder="Dealership" />
                       </div>
-                    </div>
+                    </div> */}
                     <div className="col-lg-12 mb-15">
                       <div className="form-inner">
-                        <label>Write Your Massage*</label>
+                        <label>Write Your Message*</label>
                         <textarea
                           placeholder="What’s on your mind"
                           defaultValue={""}
@@ -220,7 +219,7 @@ const ContactPage = () => {
                       </div>
                     </div>
                     <div className="col-lg-12 mb-50">
-                      <div className="form-check">
+                      {/* <div className="form-check">
                         <input
                           className="form-check-input"
                           type="checkbox"
@@ -234,7 +233,7 @@ const ContactPage = () => {
                           Please save my name, email address for the next time I
                           message with aploxn.
                         </label>
-                      </div>
+                      </div> */}
                     </div>
                     <div className="col-lg-12">
                       <div className="form-inner">

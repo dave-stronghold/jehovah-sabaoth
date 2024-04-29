@@ -5,7 +5,7 @@ import React from "react";
 const About = () => {
   useButtonHover();
   return (
-    <div className="about-section mb-130">
+    <div className="about-section mb-130" id="about-section">
       <div className="container-fluid one pl--95">
         <div className="row g-xl-4 gy-5">
           <div className="col-xl-6">
@@ -13,8 +13,8 @@ const About = () => {
               <div className="section-title1 two mb-50">
                 <span>About Us</span>
                 <h2>
-                  A structured and systematic approach to ensure you provide
-                  value to your clients and achieve successful outcomes.
+                  We are here to equip and enlighten the truth to every human,
+                  Lead them in the path of our Lord Jesus.
                 </h2>
               </div>
               <Link legacyBehavior href="/about">
@@ -43,13 +43,13 @@ const About = () => {
                 <div className="award-area">
                   <ul>
                     <li>
-                      Summit Award <br />
-                      2023
+                      Ministering Since <br />
+                      2020
                     </li>
                   </ul>
-                  <Link legacyBehavior href="/event-details">
+                  <Link legacyBehavior href="/about">
                     <a className="explore-btn">
-                      Achievement
+                      Our Story
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width={12}
@@ -69,15 +69,17 @@ const About = () => {
               <div className="col-sm-7">
                 <div className="team-card">
                   <div className="content">
-                    <h4>Our Managing Team</h4>
+                    <h4>Our Vision</h4>
                     <p>
-                      Begin by having an in-depth discussion with the client to
-                      understand their business.
+                      Prepare everyone to live in the word of God. Help
+                      believers to develop a strong sense of Christian identity
+                      and purpose, encouraging them to live out their faith in
+                      their daily lives.
                     </p>
                   </div>
-                  <Link legacyBehavior href="/our-people1">
+                  <Link legacyBehavior href="/about">
                     <a className="explore-btn">
-                      Explore More
+                      Read More
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width={12}

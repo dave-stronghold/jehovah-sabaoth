@@ -185,7 +185,7 @@
         "id":"27",
         "path":"/event-details",
         "title":"Event Details",
-        "bg_img":"assets/img/inner-pages/braadcrumb-bg5.jpg"
+        "bg_img":"assets/img/inner-pages/event.jpg"
     }
     ,
     {
@@ -207,5 +207,40 @@
         "path":"/blog-details",
         "title":"Blog Details",
         "bg_img":"/assets/img/inner-pages/braadcrumb-bg1.jpg"
+    }
+    ,
+    {
+        "id":"31",
+        "path":"/children-ministry",
+        "title":"Children's Ministry",
+        "bg_img":"/assets/img/inner-pages/child.jpg"
+    }
+    ,
+    {
+        "id":"32",
+        "path":"/prison-ministry",
+        "title":"Prison Ministry",
+        "bg_img":"/assets/img/inner-pages/prison.jpg"
+    }
+    ,
+    {
+        "id":"33",
+        "path":"/hospital-ministry",
+        "title":"Hospital Ministry",
+        "bg_img":"/assets/img/inner-pages/hospital.jpg"
+    }
+    ,
+    {
+        "id":"34",
+        "path":"/social-welfare",
+        "title":"Social Welfare",
+        "bg_img":"/assets/img/inner-pages/social.jpg"
+    }
+    ,
+    {
+        "id":"35",
+        "path":"/online-gatherings",
+        "title":"Online Gatherings",
+        "bg_img":"/assets/img/inner-pages/online.jpg"
     }
 ]
