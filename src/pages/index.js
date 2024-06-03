@@ -15,8 +15,8 @@ import Footer from "../components/footer/Footer";
 import Link from "next/link";
 import FindJob from "../components/home1/FindJob";
 import HorizontalScroll from "../components/home1/HorizontalScroll";
-import ProjectSection from "../components/Home1/ProjectSection";
-import VideoArea from "../components/Home1/VideoArea";
+import ProjectSection from "../components/home1/ProjectSection";
+import VideoArea from "../components/home1/VideoArea";
 
 export default function Home() {
   return (
