@@ -46,7 +46,7 @@ const Footer = () => {
                         <div className="content">
                           <span>For Inquiry</span>
                           <h6>
-                            <a href="tel:+919840156777">98401 56777</a>
+                            <a href="tel:+919952648777">99526 48777</a>
                           </h6>
                         </div>
                       </div>
@@ -222,7 +222,7 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link legacyBehavior href="/public-welfare">
+                  <Link legacyBehavior href="/social-welfare">
                     <a>
                       Public Welfare
                       <svg

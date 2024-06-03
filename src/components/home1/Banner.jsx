@@ -165,7 +165,7 @@ const Banner = () => {
           channel="youtube"
           onClick={() => setOpen(true)}
           isOpen={isOpen}
-          animationSpeed="350"
+          // animationSpeed="350"
           videoId="gzXlMXEstp0"
           ratio="16:9"
           onClose={() => setOpen(false)}
